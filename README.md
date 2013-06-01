@@ -1,6 +1,14 @@
-![](https://github.com/Shu-Ji/qqrobot/raw/master/img.jpg)
-
 基于webqq协议和小i机器人的qq机器人。
+
+你可以加QQ 2915573785 和这个机器人测试聊天。直接聊天，不用加#，如：
+
+    你好
+
+也可以把它加入到你管理的一个群里面，聊天的时候前面加个#，如：
+    
+    #你好
+
+![](https://github.com/Shu-Ji/qqrobot/raw/master/img.jpg)
 
 需要安装依赖库: pyquery requests.py
 
